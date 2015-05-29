@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night-Eighties.tmTheme",
+	"http_proxy": "http://proxy.ign.fr:3128",
+	"https_proxy": "http://proxy.ign.fr:3128",
+	"ignored_packages":
+	[
+		"Makefile",
+		"Vintage"
+	],
+	"theme": "Soda Dark 3.sublime-theme"
+}

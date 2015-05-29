@@ -1,0 +1,32 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Anaconda",
+		"AutoDocstring",
+		"BracketHighlighter",
+		"Git-StatusBar",
+		"GitGutter",
+		"Github Tools",
+		"GitSavvy",
+		"GitStatus",
+		"Makefile Improved",
+		"Markdown Preview",
+		"Package Control",
+		"Package Syncing",
+		"PostgreSQL Syntax Highlighting",
+		"Python Nose Testing Snippets",
+		"Restart",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"SQLExec",
+		"SublimeLinter-xmllint",
+		"SublimePackageSync",
+		"Theme - Soda",
+		"Theme - Soda SolarizedDark",
+		"Tomorrow Color Schemes"
+	]
+}
