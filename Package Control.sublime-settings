@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -24,7 +25,6 @@
 		"SideBarGit",
 		"SQLExec",
 		"SublimeLinter-xmllint",
-		"SublimePackageSync",
 		"Theme - Soda",
 		"Theme - Soda SolarizedDark",
 		"Tomorrow Color Schemes"
