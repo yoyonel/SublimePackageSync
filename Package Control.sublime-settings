@@ -9,6 +9,8 @@
 		"Anaconda",
 		"AutoDocstring",
 		"BracketHighlighter",
+		"Docker Based Build Systems",
+		"Dockerfile Syntax Highlighting",
 		"Git-StatusBar",
 		"GitGutter",
 		"Github Tools",
