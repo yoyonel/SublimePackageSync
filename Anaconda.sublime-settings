@@ -1,0 +1,6 @@
+/*
+    Anaconda default settings
+*/
+{
+	"auto_formatting_timeout": 5,  // seconds
+}
