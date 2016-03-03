@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"1337 Color Scheme",
 		"AdvancedNewFile",
 		"Anaconda",
 		"AutoDocstring",
@@ -25,10 +26,13 @@
 		"PostgreSQL Syntax Highlighting",
 		"Python Nose Testing Snippets",
 		"Restart",
+		"Ruby Blue Color Scheme",
 		"SideBarEnhancements",
 		"SideBarGit",
 		"SQLExec",
 		"SublimeLinter-xmllint",
+		"SyncedSidebarBg",
+		"Theme - Flatland",
 		"Theme - Soda",
 		"Theme - Soda SolarizedDark",
 		"Tomorrow Color Schemes"
