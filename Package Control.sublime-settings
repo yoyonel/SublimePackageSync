@@ -11,6 +11,8 @@
 		"AutoDocstring",
 		"BracketHighlighter",
 		"C++ Snippets",
+		"Clang Format",
+		"ClangAutoComplete",
 		"CMake",
 		"Docker Based Build Systems",
 		"Dockerfile Syntax Highlighting",
