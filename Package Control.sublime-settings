@@ -15,6 +15,7 @@
 		"Clang Format",
 		"ClangAutoComplete",
 		"CMake",
+		"Conky.tmLanguage",
 		"Docker Based Build Systems",
 		"Dockerfile Syntax Highlighting",
 		"Git-StatusBar",
