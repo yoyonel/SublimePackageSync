@@ -17,6 +17,7 @@
 		"Clang Format",
 		"CMake",
 		"Conky.tmLanguage",
+		"CTags",
 		"Docker Based Build Systems",
 		"Dockerfile Syntax Highlighting",
 		"DoxyDoc",
