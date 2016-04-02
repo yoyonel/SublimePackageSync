@@ -4,6 +4,8 @@
 	"https_proxy": "proxy.ign.fr:3128",
 	"ignored_packages":
 	[
+		"CTags",
+		"DoxyDoc",
 		"Makefile",
 		"Vintage"
 	]

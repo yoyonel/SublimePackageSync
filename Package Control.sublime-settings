@@ -1,5 +1,7 @@
 {
 	"bootstrapped": true,
+	"http_proxy": "proxy.ign.fr:3128",
+	"https_proxy": "proxy.ign.fr:3128",
 	"in_process_packages":
 	[
 	],
@@ -10,12 +12,16 @@
 		"Anaconda",
 		"AutoDocstring",
 		"BracketHighlighter",
+		"C Improved",
 		"C++ Snippets",
-		"ChucK Syntax",
 		"Clang Format",
 		"CMake",
+		"Conky.tmLanguage",
+		"CTags",
 		"Docker Based Build Systems",
 		"Dockerfile Syntax Highlighting",
+		"DoxyDoc",
+		"DoxyDoxygen",
 		"Git-StatusBar",
 		"GitGutter",
 		"Github Tools",
@@ -30,6 +36,7 @@
 		"Project Manager",
 		"Python Imports Sorter",
 		"Python Nose Testing Snippets",
+		"Qt Completions for C++",
 		"Restart",
 		"Ruby Blue Color Scheme",
 		"SideBarEnhancements",
