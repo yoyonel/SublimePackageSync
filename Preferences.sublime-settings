@@ -4,9 +4,13 @@
 	"https_proxy": "proxy.ign.fr:3128",
 	"ignored_packages":
 	[
+		"C Improved",
+		"Conky.tmLanguage",
 		"CTags",
 		"DoxyDoc",
+		"DoxyDoxygen",
 		"Makefile",
+		"Qt Completions for C++",
 		"Vintage"
 	]
 }

@@ -1,0 +1,8 @@
+{
+    "python_path": "python",
+    "ycmd_path": "/home/atty/Prog/CppYCM",
+    "highlight_errors_on_save": false,
+    "select_after_goto": false,
+    "error_panel_syntax_file": "Packages/C++YouCompleteMe/ErrorPanel.tmLanguage"
+}
+	

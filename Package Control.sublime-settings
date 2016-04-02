@@ -4,6 +4,12 @@
 	"https_proxy": "proxy.ign.fr:3128",
 	"in_process_packages":
 	[
+		"C Improved",
+		"Conky.tmLanguage",
+		"CTags",
+		"DoxyDoc",
+		"DoxyDoxygen",
+		"Qt Completions for C++"
 	],
 	"installed_packages":
 	[
