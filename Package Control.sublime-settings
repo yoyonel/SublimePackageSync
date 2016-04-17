@@ -2,7 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"GitSavvy"
+		"CMakeEditor"
 	],
 	"installed_packages":
 	[
@@ -16,6 +16,7 @@
 		"ChucK Syntax",
 		"Clang Format",
 		"CMake",
+		"CMakeEditor",
 		"Conky.tmLanguage",
 		"CTags",
 		"Docker Based Build Systems",
