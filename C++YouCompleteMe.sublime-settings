@@ -1,7 +1,16 @@
 {
     "python_path": "python",
+<<<<<<< HEAD
     "ycmd_path": "/home/latty/.config/sublime-text-3/Packages/C++YouCompleteMe/server",
     "highlight_errors_on_save": true,
     "select_after_goto": true,
     "error_panel_syntax_file": "Packages/C++YouCompleteMe/ErrorPanel.tmLanguage"
 }
+=======
+    "ycmd_path": "/home/atty/Prog/CppYCM",
+    "highlight_errors_on_save": false,
+    "select_after_goto": false,
+    "error_panel_syntax_file": "Packages/C++YouCompleteMe/ErrorPanel.tmLanguage"
+}
+	
+>>>>>>> 62ae54c4799b3711cc2718a3bab93c049679f36d
