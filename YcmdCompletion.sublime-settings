@@ -1,0 +1,13 @@
+{
+	"HMAC": "cOous2B0xJ170DvyDoWLAA==",
+	"default_settings_path": "/home/latty/__DEV__/CppYCM/ycmd/default_settings.json",
+	"languages":
+	[
+		"cpp",
+		"python"
+	],
+	"use_auto_start_localserver": 1,
+	"ycmd_path": "/home/latty/__DEV__/CppYCM/ycmd",
+	"ycmd_port": 46614,
+	"ycmd_server": "http://127.0.0.1"
+}
