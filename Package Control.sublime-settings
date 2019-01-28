@@ -29,7 +29,6 @@
 		"GitStatusBar",
 		"Licence Snippets",
 		"Makefile Improved",
-		"Markdown Preview",
 		"Package Control",
 		"Package Syncing",
 		"PostgreSQL Syntax Highlighting",
@@ -47,6 +46,7 @@
 		"Theme - Flatland",
 		"Theme - Soda",
 		"Theme - Soda SolarizedDark",
-		"Tomorrow Color Schemes"
+		"Tomorrow Color Schemes",
+		"MarkdownPreview"
 	]
 }
